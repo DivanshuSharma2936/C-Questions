@@ -31,7 +31,7 @@ Basic Math
 20. Count Digits
 
 More Practice 
-21. Sum of Digits 
+21. Sum of Digits
 22. Product of Digits 
 23. Fibonacci Series 
 24. Power of Number 
