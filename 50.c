@@ -14,7 +14,7 @@ int main() {
     scanf("%d %d",&d,&e); //let d=5 and e=6 . so, &d=5 and &e=6
     swap(&d,&e);
     printf("Address of d = %p\n", (void *)&d);
-printf("Address of e = %p\n", (void *)&e);
+    printf("Address of e = %p\n", (void *)&e);
     printf("Number After Swapping %d and %d",d,e);
 
     return 0;
